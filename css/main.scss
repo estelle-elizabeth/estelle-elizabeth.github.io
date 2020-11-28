@@ -144,7 +144,8 @@ body{
 }
 
 .hamburger{
-    font-size: 32px;
+	font-size: 32px;
+	color: #666666;
     
     @include forSize(tabMax){
         display: flex;
